@@ -66,8 +66,10 @@ Front image at the top
 
 Back image below with consistent spacing
 
-Pixel-to-millimeter conversion based on 96 DPI
+Pixel to millimeter conversion based on 96 DPI
+
 ---
+
 ## 🟢 Local Usage
 
 No installation required.
@@ -77,10 +79,12 @@ Download the index.html file.
 Open it in any modern browser (Chrome, Firefox, Edge).
 
 Start generating PDFs immediately.
+
 ---
 ## 👤 Author
 
 Isaac-maker
+
 ---
 ## 👌 License
 
